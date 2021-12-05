@@ -26,4 +26,3 @@ func readInput() []int {
 	}
 	return data
 }
-
